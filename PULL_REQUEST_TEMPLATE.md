@@ -1,6 +1,6 @@
 <!-- Thank you for your contribution to one of Codesmith's curriculum repositories! -->
 
-<!-- RESIDENTS: If you're attempting to make a PR for your unit challenge, please ignore these instructions. You only need to submit a PR if you're attempting to update the main branch or if you're submitting an assessment. -->
+RESIDENTS: If you're attempting to make a pull request for your unit challenge, please ignore these instructions. You only need to submit a PR if you're attempting to update the main branch or if you're submitting an assessment.
 
 ### Description
 
